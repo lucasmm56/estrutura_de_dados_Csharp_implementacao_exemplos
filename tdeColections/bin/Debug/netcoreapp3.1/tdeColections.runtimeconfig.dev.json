@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Maiara\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Maiara\\.nuget\\packages"
+    ]
+  }
+}

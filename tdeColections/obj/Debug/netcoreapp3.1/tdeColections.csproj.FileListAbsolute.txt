@@ -1,0 +1,13 @@
+C:\Users\Maiara\Source\Repos\tdeColections\tdeColections\bin\Debug\netcoreapp3.1\tdeColections.exe
+C:\Users\Maiara\Source\Repos\tdeColections\tdeColections\bin\Debug\netcoreapp3.1\tdeColections.deps.json
+C:\Users\Maiara\Source\Repos\tdeColections\tdeColections\bin\Debug\netcoreapp3.1\tdeColections.runtimeconfig.json
+C:\Users\Maiara\Source\Repos\tdeColections\tdeColections\bin\Debug\netcoreapp3.1\tdeColections.runtimeconfig.dev.json
+C:\Users\Maiara\Source\Repos\tdeColections\tdeColections\bin\Debug\netcoreapp3.1\tdeColections.dll
+C:\Users\Maiara\Source\Repos\tdeColections\tdeColections\bin\Debug\netcoreapp3.1\tdeColections.pdb
+C:\Users\Maiara\Source\Repos\tdeColections\tdeColections\obj\Debug\netcoreapp3.1\tdeColections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maiara\Source\Repos\tdeColections\tdeColections\obj\Debug\netcoreapp3.1\tdeColections.AssemblyInfoInputs.cache
+C:\Users\Maiara\Source\Repos\tdeColections\tdeColections\obj\Debug\netcoreapp3.1\tdeColections.AssemblyInfo.cs
+C:\Users\Maiara\Source\Repos\tdeColections\tdeColections\obj\Debug\netcoreapp3.1\tdeColections.csproj.CoreCompileInputs.cache
+C:\Users\Maiara\Source\Repos\tdeColections\tdeColections\obj\Debug\netcoreapp3.1\tdeColections.dll
+C:\Users\Maiara\Source\Repos\tdeColections\tdeColections\obj\Debug\netcoreapp3.1\tdeColections.pdb
+C:\Users\Maiara\Source\Repos\tdeColections\tdeColections\obj\Debug\netcoreapp3.1\tdeColections.genruntimeconfig.cache
